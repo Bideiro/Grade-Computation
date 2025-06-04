@@ -1,0 +1,59 @@
+Semester,Course Code,Descriptive Title,Credit Units,Grade,Pre-requisites / Co-requisites
+"FIRST YEAR, 1ST SEMESTER (20)",GEC 004,Mathematics in the Modern World,3,1.75,
+"FIRST YEAR, 1ST SEMESTER (20)",GEC 001,Understanding the Self,3,1.25,
+"FIRST YEAR, 1ST SEMESTER (20)",MATH 013,Linear Algebra with MATLAB,3,2.0,
+"FIRST YEAR, 1ST SEMESTER (20)",MATH 014,Number Theory,3,1.25,
+"FIRST YEAR, 1ST SEMESTER (20)",CS 001,Introduction to Computing,3,1.25,
+"FIRST YEAR, 1ST SEMESTER (20)",ITE 001,Computer Programming,1,1.0,3
+"FIRST YEAR, 1ST SEMESTER (20)",PE 001,Physical Activities Toward Health and Fitness,1,1.0,(PATHfit 1) (PE 001) 2
+"FIRST YEAR, 1ST SEMESTER (20)",NSTP 001,National Service Training Program,1,1.25,(3)
+"FIRST YEAR, 2ND SEMESTER (21)",GEC 005,Purposive Communication,3,1.0,
+"FIRST YEAR, 2ND SEMESTER (21)",GEC 003,The Contemporary World,3,1.0,
+"FIRST YEAR, 2ND SEMESTER (21)",GEC 006,Art Appreciation,3,1.5,
+"FIRST YEAR, 2ND SEMESTER (21)",MATH 015,Symbolic Logic,3,1.25,MATH 014(P)
+"FIRST YEAR, 2ND SEMESTER (21)",ITE 012,Computer Programming,2,1.75,3 ITE 001(P)
+"FIRST YEAR, 2ND SEMESTER (21)",NSTP 002,National Service Training Program,2,1.25,(3) NSTP 001(P)
+"FIRST YEAR, 2ND SEMESTER (21)",MATH 007,Differential Calculus,4,1.75,MATH 013(P)
+"FIRST YEAR, 2ND SEMESTER (21)",PE 002,Physical Activities Toward Health and Fitness,2,1.0,(PATHfit 2) (PE 002) 2
+"SECOND YEAR, 1ST SEMESTER (24)",PE 003,Physical Activities Toward Health and Fitness,3,1.25,(PATHfit 3) (PE 003) 2 PE 001(P) PE 002(P)
+"SECOND YEAR, 1ST SEMESTER (24)",CS 409,Mobile Computing,3,1.0,ITE 001(P)
+"SECOND YEAR, 1ST SEMESTER (24)",CS 200,Principles of Programming Languages,3,1.0,CS 001(P) ITE 001(P)
+"SECOND YEAR, 1ST SEMESTER (24)",CS 003,Computer Architecture and Organization,3,1.5,CS 001(P)
+"SECOND YEAR, 1ST SEMESTER (24)",MATH 008,Integral Calculus,4,1.0,MATH 007(P)
+"SECOND YEAR, 1ST SEMESTER (24)",CS 002,Advanced Object-Oriented Programming,3,1.0,ITE 012(P)
+"SECOND YEAR, 1ST SEMESTER (24)",GEC 002,Readings in Philippine History,3,1.0,
+"SECOND YEAR, 1ST SEMESTER (24)",GEE 001,General Education Elective,1,2.0,3
+"SECOND YEAR, 2ND SEMESTER (25)",MATH 012A,Introduction to Numerical Analysis,3,2.5,MATH 007(P)
+"SECOND YEAR, 2ND SEMESTER (25)",PHYS 001C,Calculus-Based Physics (Physics for Engineers),4,1.75,MATH 008(P)
+"SECOND YEAR, 2ND SEMESTER (25)",MATH 006,Discrete Mathematics,3,1.5,MATH 015(P)
+"SECOND YEAR, 2ND SEMESTER (25)",ITE 005,Operating Systems,3,1.5,CS 003(P)
+"SECOND YEAR, 2ND SEMESTER (25)",ITE 014,Information Management,3,1.5,ITE 012(P)
+"SECOND YEAR, 2ND SEMESTER (25)",CS 201A,Data Structures and Algorithms Analysis (CS,201,1.25,A) 4 CS 001(P) CS 002(P)
+"SECOND YEAR, 2ND SEMESTER (25)",GEE 002,General Education Elective,2,1.25,3
+"SECOND YEAR, 2ND SEMESTER (25)",PE 004,Physical Activities Toward Health and Fitness,4,1.25,(PATHfit 4) (PE 004) 2 PE 001(P) PE 002(P)
+"THIRD YEAR, 1ST SEMESTER (24)",SOCSC 005,Life and Works of Rizal,3,1.75,
+"THIRD YEAR, 1ST SEMESTER (24)",MATH 009CS,Probability and Statistics (w/ Lab),3,2.25,MATH 014(P)
+"THIRD YEAR, 1ST SEMESTER (24)",CS 004,Networks and Communications,3,1.75,ITE 005(P)
+"THIRD YEAR, 1ST SEMESTER (24)",ITE 013,Application Development and Emerging Technologies,3,1.75,CS 409(P)
+"THIRD YEAR, 1ST SEMESTER (24)",CS 403,Intelligent Agents,3,1.25,MATH 012A(P)
+"THIRD YEAR, 1ST SEMESTER (24)",CS 300,Automata Theory and Formal Languages,3,1.0,CS 201A(P) MATH 006(P)
+"THIRD YEAR, 1ST SEMESTER (24)",CS 301,Software Engineering,1,1.25,3 ITE 014(P)
+"THIRD YEAR, 1ST SEMESTER (24)",GEC 007,"Science, Technology, and Society",3,2.0,
+"THIRD YEAR, 2ND SEMESTER (25)",CHEM 001C,Chemistry for Engineers,4,1.25,
+"THIRD YEAR, 2ND SEMESTER (25)",ITE 015,Social Issues and Professional Practice,3,1.5,CS 301(P) ITE 010A(C)
+"THIRD YEAR, 2ND SEMESTER (25)",CS 302,Modeling and Simulation,3,1.5,CS 403(P) MATH 009CS(P)
+"THIRD YEAR, 2ND SEMESTER (25)",CS 006,Algorithms and Complexity,3,1.25,CS 300(P) MATH 012A(P)
+"THIRD YEAR, 2ND SEMESTER (25)",CSELEC 001 CS,Elective,1,1.0,(ITE 404) 3
+"THIRD YEAR, 2ND SEMESTER (25)",ITE 010A,Human Computer Interaction,3,1.75,ITE 013(P)
+"THIRD YEAR, 2ND SEMESTER (25)",CS 005,Information Assurance and Security,3,1.0,CS 004(P) ITE 014(P)
+"THIRD YEAR, 2ND SEMESTER (25)",GEE 003,General Education Elective,3,1.0,3
+"THIRD YEAR, 2ND SEMESTER (25)",CS 304,Software Engineering,2,1.75,3 CS 302(P) ITE 015(P)
+"THIRD YEAR, 2ND SEMESTER (25)",CS 007,Parallel and Distributed Computing,3,1.0,CS 004(P)
+"THIRD YEAR, 2ND SEMESTER (25)",CSELEC 002 CS,Elective,2,1.5,(ITE 405) 3
+"FOURTH YEAR, 1ST SEMESTER (15)",TECH 101,Technopreneurship,3,1.0,ITE 015(P)
+"FOURTH YEAR, 1ST SEMESTER (15)",FELEC 001,Free Elective (IS,5,1.75,) 3
+"FOURTH YEAR, 1ST SEMESTER (15)",CSELEC 003 CS,Elective,3,1.25,(ITE 406) 3
+"FOURTH YEAR, 1ST SEMESTER (15)",CS 307,Thesis,1,2.25,3 CS 304(P) TECH 101(C)
+"FOURTH YEAR, 1ST SEMESTER (15)",GEC 008,Ethics,3,2.0,
+"FOURTH YEAR, 2ND SEMESTER (6)",CS 402,Internship in Computing,3,1.25,CS 304(P)
+"FOURTH YEAR, 2ND SEMESTER (6)",CS 401,Thesis,2,1.5,3 CS 307(P)
